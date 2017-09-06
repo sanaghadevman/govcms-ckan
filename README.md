@@ -5,6 +5,10 @@ govCMS CKAN provides integration with CKAN (http://ckan.org/). CKAN is a
 powerful data management system that makes data accessible by providing tools to
 streamline publishing, sharing, finding and using data.
 
+FOR A NEW COUNTRY
+=================
+We are about to fork it for the .gov.cm websites
+
 Authors
 -------
 This module was created by [Jeremy Graham](https://github.com/jeremy-doghouse) @ [Doghouse Agency](http://doghouse.agency)
